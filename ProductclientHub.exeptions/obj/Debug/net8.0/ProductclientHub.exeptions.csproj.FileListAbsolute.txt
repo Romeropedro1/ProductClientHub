@@ -1,0 +1,12 @@
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\bin\Debug\net8.0\ProductclientHub.exeptions.deps.json
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\bin\Debug\net8.0\ProductclientHub.exeptions.dll
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\bin\Debug\net8.0\ProductclientHub.exeptions.pdb
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.AssemblyInfoInputs.cache
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.AssemblyInfo.cs
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.csproj.CoreCompileInputs.cache
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.dll
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\refint\ProductclientHub.exeptions.dll
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.pdb
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ref\ProductclientHub.exeptions.dll
+C:\Users\ALEXIENIGENA\source\repos\ProductclientHub.exeptions\obj\Debug\net8.0\ProductclientHub.exeptions.sourcelink.json

@@ -1,0 +1,6 @@
+C:\Users\ALEXIENIGENA\source\repos\Productclienthub.comunications\bin\Debug\Productclienthub.comunications.dll
+C:\Users\ALEXIENIGENA\source\repos\Productclienthub.comunications\bin\Debug\Productclienthub.comunications.pdb
+C:\Users\ALEXIENIGENA\source\repos\Productclienthub.comunications\obj\Debug\Productclienthub.comunications.csproj.AssemblyReference.cache
+C:\Users\ALEXIENIGENA\source\repos\Productclienthub.comunications\obj\Debug\Productclienthub.comunications.csproj.CoreCompileInputs.cache
+C:\Users\ALEXIENIGENA\source\repos\Productclienthub.comunications\obj\Debug\Productclienthub.comunications.dll
+C:\Users\ALEXIENIGENA\source\repos\Productclienthub.comunications\obj\Debug\Productclienthub.comunications.pdb

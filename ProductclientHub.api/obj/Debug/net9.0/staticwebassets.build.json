@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tRHGqIU8PdC9v9BA5JPZxQRmyXeEd2+GaepoxAZCJZ4=",
+  "Source": "ProductclientHub.api",
+  "BasePath": "_content/ProductclientHub.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
