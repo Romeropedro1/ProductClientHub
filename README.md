@@ -148,7 +148,7 @@ Exemplo de erro de validação:
 
 1. **Clone o repositório:**
    ```
-   git clone https://github.com/seu-usuario/ProductClienthub.git
+   git clone https://github.com/Romeropedro1/ProductClienthub.git
    ```
 
 2. **Instale as dependências do projeto:**
